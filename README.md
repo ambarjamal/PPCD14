@@ -6,6 +6,7 @@ This is another exciting Training Batch
   <li>Features 1 </li>
   <li>Features 2 </li>
   <li>Features 3 </li>
+  <li>Parkash</li>
 </ul>
 
 &copy; 2025 Hero Vired
